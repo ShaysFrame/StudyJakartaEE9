@@ -14,7 +14,7 @@
 <%--    out.println(getServletInfo());--%>
 <%--%>--%>
 
-<%@include file="/3-3_Include_Example/indexindex2.jsp"%>
+<%@include file="include.jsp"%>
 
 </body>
 </html>
